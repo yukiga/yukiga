@@ -1,3 +1,3 @@
-<video autoplay loop muted playsinline width="100%">
-  <source src="https://yukiga.github.io/yukiga/yo.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yukiga/yukiga/main/wifi.gif" alt="Banner animado" />
+</p>
