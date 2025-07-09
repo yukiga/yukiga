@@ -9,4 +9,4 @@
  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"
 
 <a href= "https://open.spotify.com/user/csybtkpherka78ejcnzam2leu?si=5385408bb5af4b7b">
- <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"
+ <img src="[https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)"
